@@ -33,6 +33,11 @@ Bob: 0
 Alice: 99998400
 Bob: 1000
 
+
+
+
+# reference:     https://aptos.dev/tutorials/your-first-transaction
+
 === Final Balances ===
 Alice: 99996800
 Bob: 2000
