@@ -40,6 +40,10 @@ Bob: 1000
 
 # reference:     https://aptos.dev/tutorials/your-first-transaction
 
+#ref             (see comments) https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
+
+
+
 === Final Balances ===
 Alice: 99996800
 Bob: 2000
